@@ -1,0 +1,10 @@
+wlan.ko
+snd-soc-wcd934x.ko
+snd-soc-wcd9xxx.ko
+snd-soc-wcd-spi.ko
+snd-soc-cs35l36.ko
+wcd-core.ko
+snd-soc-sdm845.ko
+snd-soc-sdm845-max98927.ko
+wcd-dsp-glink.ko
+pinctrl-wcd.ko
